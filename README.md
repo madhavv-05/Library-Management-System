@@ -4,7 +4,7 @@ A Library Management System developed in C++ that allows users to manage books, 
 
 ## Table of Contents
 - [Features](#features)
-  Prerequisites
+- [Prerequisites](#prerequisites)
 - [Usage](#usage)
 
 
@@ -21,7 +21,7 @@ A Library Management System developed in C++ that allows users to manage books, 
 - A C++ compiler (e.g., GCC, Clang)
 - A terminal or command prompt
 
-##Usage
+## Usage
 
 Login:
 
